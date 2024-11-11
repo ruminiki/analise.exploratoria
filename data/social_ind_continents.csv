@@ -1,0 +1,162 @@
+Series Name,Series Code,Country Name,Country Code,2022 [YR2022],2021 [YR2021],2020 [YR2020],2019 [YR2019],2018 [YR2018],2017 [YR2017],2016 [YR2016],2015 [YR2015]
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Africa Western and Central,AFW,..,58.0998277402241,58.3462397855696,58.5459790446893,58.113247716781,57.8422360012789,57.4486009951228,57.1643238923324
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Africa Eastern and Southern,AFE,..,65.0784721607323,65.8364652190824,66.2197263000846,65.8281070906573,65.3040097015379,64.8677908228342,64.1911251346056
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,East Asia & Pacific,EAS,..,79.3291080775649,79.7000265259219,79.6593517597037,79.4836335145225,79.1970331799431,78.9889967917809,78.7657283033793
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Euro area,EMU,..,84.4205071675032,84.1991236890953,84.9358274212651,84.6841743158576,84.567679438229,84.6892657229973,84.2887408435512
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,European Union,EUU,..,83.2661243342613,83.3178735037228,84.1090622873377,83.8531292133199,83.7483550182315,83.8632892775631,83.4589830039733
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Latin America & Caribbean,LCN,..,75.6998342925003,76.5963166750659,78.1753113767646,77.9754050425677,77.8311366467771,77.7667189060786,77.716388906227
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Low income,LIC,..,65.0392368353743,65.3677817543619,65.8182192951723,65.4360568599751,64.9566969676114,64.4997651560028,63.9142824600275
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Middle East & North Africa,MEA,..,75.0850803703437,75.3216817035146,76.2464016210705,76.1942839951013,76.0860390277461,75.5621963324125,75.1422697461675
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,North America,NAC,..,79.8535025561364,80.3173623237317,81.7060151756392,81.4840217057529,81.3951404325455,81.3945407389417,81.4694069389618
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,South Asia,SAS,..,69.4320706489244,71.6133038196459,72.2004589104808,71.9158167502496,71.6446702064759,71.2502493731573,70.8271815187454
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,World,WLD,..,73.9476801374202,74.8568885999097,75.4693604310771,75.2710933277429,75.0623808785636,74.8373218249927,74.5726384401712
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,High income,HIC,..,82.7624995472611,82.9083021531946,83.6738650563885,83.4571478009347,83.3691664703015,83.3721695489653,83.2008861232224
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Europe & Central Asia,ECS,..,79.9471387231267,80.276304238185,81.4339791503758,81.1880700550512,81.0595249615613,80.9443800572235,80.6210239959168
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Africa Western and Central,AFW,..,55.903419131817,56.1310226277444,56.5773921225952,56.2718124700128,55.942663783214,55.7171055612091,55.2335069473088
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Africa Eastern and Southern,AFE,..,59.8945091279094,60.8174841935841,61.2907210048687,60.9051856180292,60.5358392824653,60.0212486659235,59.517464093099
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,East Asia & Pacific,EAS,..,73.6394005707086,73.9938211916449,74.0866107760231,73.8643113081173,73.4208575575037,73.4480171924208,73.2891601497108
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Euro area,EMU,..,79.1352781609623,79.0116941919353,79.8519588771144,79.5528546658679,79.4353273305761,79.3621114680897,78.9921720667007
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,European Union,EUU,..,77.6589024545667,77.7355823336024,78.6659054050384,78.3514668482028,78.2632640900611,78.1902182462582,77.8275364082164
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Latin America & Caribbean,LCN,..,68.8027830198442,69.6700390348228,71.954286796899,71.7799010129809,71.6847487824046,71.462144881309,71.5611072034826
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Low income,LIC,..,60.0508558916715,60.6139952110069,61.086942542278,60.6241563701524,60.3527794102101,59.9783370835827,59.5277842023921
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Middle East & North Africa,MEA,..,70.640332856669,70.8125761574148,71.8622692653563,71.6424458764646,71.3682796440752,70.9661631022304,70.8328113995866
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,North America,NAC,..,74.2375076175192,74.7458734949818,76.6997179401936,76.567639221345,76.4700936461002,76.4849801059369,76.6556635932353
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,South Asia,SAS,..,65.8939763288468,68.0443600410197,68.872210235854,68.7059284649452,68.4358905811306,68.090015490837,67.5944489238994
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,World,WLD,..,68.8857076777592,69.7994103625221,70.623134051809,70.4316824185661,70.1698102815764,69.9953793136126,69.759333733021
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,High income,HIC,..,77.2686237328273,77.4370230088864,78.4659800499969,78.2514939006435,78.1641465834792,78.0849393442585,77.9372912704988
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Europe & Central Asia,ECS,..,73.5036637475886,73.8419574016869,75.1110126994167,74.8113935625894,74.6779347583858,74.3781862405811,74.0346539050557
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Africa Western and Central,AFW,..,56.9886567820139,57.2263727312399,57.5557955517512,57.1891392680655,56.888445830282,56.5816784850503,56.1958723463674
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Africa Eastern and Southern,AFE,..,62.4545896453863,63.313860330682,63.7556779176533,63.3658626111831,62.9223896233502,62.444050201953,61.8564581403595
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,East Asia & Pacific,EAS,..,76.3938984674492,76.761923159442,76.7977608621553,76.5941638140358,76.2123920164654,76.1379237487962,75.9488167254261
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Euro area,EMU,..,81.7091612624959,81.5379202202808,82.3277560167223,82.0515528107846,81.934533072359,81.9563383126483,81.5712888246472
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,European Union,EUU,..,80.3875285216872,80.452093051787,81.3148579639404,81.0287289990803,80.9325986173981,80.9512974807301,80.5684394242096
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Latin America & Caribbean,LCN,..,72.1474343340309,73.0384741705489,75.0383494699308,74.8514987823088,74.7334935009884,74.5792328754221,74.6119695820583
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Low income,LIC,..,62.4961095080066,62.9545325364614,63.4239909431004,62.9952039179532,62.6237139090709,62.2142411499284,61.6995184139706
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Middle East & North Africa,MEA,..,72.7460552075238,72.9497683319316,73.9591150111936,73.8115171255443,73.6097428540992,73.1525218426913,72.8895160840123
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,North America,NAC,..,76.9767231711531,77.4635168508573,79.1417123760336,78.9657812984215,78.8724761687345,78.8797242694941,79.0036457097
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,South Asia,SAS,..,67.5791290463818,69.7483309161325,70.4727549740685,70.2534786113924,69.9792893786272,69.609572441708,69.1437835147163
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,World,WLD,..,71.3268654207617,72.2434659125782,72.9791434982166,72.783210402702,72.5416951661882,72.3443484475311,72.0943407098952
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,High income,HIC,..,79.9239229936161,80.0808652638566,80.9842921361628,80.7690416014898,80.6822807328723,80.6424818528005,80.4840323835436
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Europe & Central Asia,ECS,..,76.6250531517707,76.960093929662,78.1865953998752,77.911987231714,77.7798730510133,77.5668781842823,77.2322450351642
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Africa Western and Central,AFW,..,3.38980489770517,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Africa Eastern and Southern,AFE,..,7.38194080772973,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,East Asia & Pacific,EAS,..,9.86515145754453,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Euro area,EMU,..,6.63954309430162,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,European Union,EUU,..,6.60714875337284,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Latin America & Caribbean,LCN,..,9.86666869100848,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Low income,LIC,..,6.7535616817198,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Middle East & North Africa,MEA,..,12.9292953235697,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,North America,NAC,..,10.3822401210088,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,South Asia,SAS,..,12.2887568871113,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,World,WLD,..,9.7992159273901,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,High income,HIC,..,8.38614455593717,..,..,..,..,..,..
+Diabetes prevalence (% of population ages 20 to 79),SH.STA.DIAB.ZS,Europe & Central Asia,ECS,..,7.0336245867462,..,..,..,..,..,..
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Africa Western and Central,AFW,..,..,..,69.0435512548675,69.9584820285384,70.7940488170738,71.4727763492122,72.015555753835
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Africa Eastern and Southern,AFE,..,..,..,54.404260547486,54.3389928714487,54.2927552153994,54.1856497128502,54.0783705187233
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,East Asia & Pacific,EAS,..,..,..,23.3830474087685,23.075185327296,22.9407360512244,22.8753863907979,22.8013265881306
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Euro area,EMU,..,..,..,15.19582004303,14.7366783030241,14.3059693431809,13.9039701389466,13.5696196944215
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,European Union,EUU,..,..,..,16.1546863557728,15.7337844138558,15.3536242374221,15.0140044442975,14.7405346196947
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Latin America & Caribbean,LCN,..,..,..,20.5733401657697,20.7650418651006,21.1368374691438,21.5179831359548,22.0047360694225
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Low income,LIC,..,..,..,58.9416987849199,59.1728231350784,59.3707174686666,59.5037091355138,59.5666757011299
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Middle East & North Africa,MEA,..,..,..,34.0635759075425,33.8989373788167,33.8819652113864,33.9192650160156,34.0271314110151
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,North America,NAC,..,..,..,6.74070320996626,6.60021892459799,6.46208726472331,6.42507797094718,6.30508688678286
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,South Asia,SAS,..,..,..,51.7294071363683,52.1992263265901,52.7620289093964,53.2603072643079,53.8950549201166
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,World,WLD,..,..,..,39.8,39.8,39.8,39.9,40
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,High income,HIC,..,..,..,13.2334944498513,12.9417438350206,12.6939894548751,12.510848090361,12.3441812748978
+Prevalence of anemia among children (% of children ages 6-59 months),SH.ANM.CHLD.ZS,Europe & Central Asia,ECS,..,..,..,19.831125444434,19.5269318477751,19.3182500302234,19.1798873816344,19.0832152635511
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Africa Western and Central,AFW,..,..,6.12063820511717,6.3529411272548,6.34763126140221,..,..,7.31805704383868
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Africa Eastern and Southern,AFE,..,..,12.1257397934987,12.4514617782889,12.4799145290924,..,..,13.8594561700187
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,East Asia & Pacific,EAS,..,..,26.3180403800643,26.453406067219,26.4450235036599,..,..,27.0276255722124
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Euro area,EMU,..,..,26.1665747189492,26.5254684079498,26.5166190478209,..,..,27.9212764274634
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,European Union,EUU,..,..,26.4317603211118,26.8297324612283,26.8262423225201,..,..,28.3398696088737
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Latin America & Caribbean,LCN,..,..,13.4539696626,13.8462400457612,13.8533909786762,..,..,15.6262609839963
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Low income,LIC,..,..,12.4639443580925,12.7951159115175,12.8095745041766,..,..,14.2322965578115
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Middle East & North Africa,MEA,..,..,19.158235423633,19.3337925200396,19.334189783663,..,..,19.9400125207282
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,North America,NAC,..,..,21.9416119951791,22.3625131171401,22.3707166514507,..,..,24.3160838346724
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,South Asia,SAS,..,..,27.0610506134705,27.8854525302818,27.8869463170204,..,..,31.7420234773403
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,World,WLD,..,..,22.9776203868804,23.3963978995586,23.4267369670133,..,..,25.2226035536913
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,High income,HIC,..,..,22.4382140735446,22.8584428843343,22.8704291105521,..,..,24.7422304022588
+Prevalence of current tobacco use (% of adults),SH.PRV.SMOK,Europe & Central Asia,ECS,..,..,25.6375713110733,26.0289108986775,26.0322308995471,..,..,27.5456093312191
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Africa Western and Central,AFW,..,..,..,36.4551079767829,36.5574628104778,36.6755441527215,36.8040757344728,36.9345705444951
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Africa Eastern and Southern,AFE,..,..,..,35.0790814359071,35.3578948049279,35.6523469334583,35.9150332844596,36.1879565231766
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,East Asia & Pacific,EAS,..,..,..,29.6204083137061,29.668300859689,29.7898413203326,29.8464287537194,29.9752305090081
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Euro area,EMU,..,..,..,30.9809177586242,31.4127567156937,31.8370175543868,32.2776667106118,32.7387533173474
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,European Union,EUU,..,..,..,34.4046318012062,34.7234396754261,35.0469127035686,35.3753512245256,35.7242410403073
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Latin America & Caribbean,LCN,..,..,..,38.5944275297504,38.6812961945699,38.7890811980452,38.9172944587605,39.0255680286572
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Low income,LIC,..,..,..,33.6312971057934,33.7634208578696,33.9412736365014,34.0827820557521,34.2421679081258
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Middle East & North Africa,MEA,..,..,..,35.1077559313342,35.3420829093176,35.5518766246272,35.7284027015463,35.977949110321
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,North America,NAC,..,..,..,30.5775351369935,30.6152051283934,30.6407860002391,30.6748721475355,30.6977523603062
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,South Asia,SAS,..,..,..,32.2648572167853,32.2968455121211,32.2544553861907,32.2957071293279,32.3367968632284
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,World,WLD,..,..,..,32.8726316400271,32.9798848696825,33.0991083832574,33.2137795655872,33.3565480781086
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,High income,HIC,..,..,..,32.0275767362395,32.2189824393079,32.4046806249635,32.5879594090864,32.7792741675865
+Prevalence of hypertension (% of adults ages 30-79),SH.HTN.PREV.ZS,Europe & Central Asia,ECS,..,..,..,36.726876937046,37.0311547839513,37.3390024975455,37.6529602111959,37.977810138178
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Africa Western and Central,AFW,..,..,..,..,..,..,28.8497545343944,28.2563469725857
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Africa Eastern and Southern,AFE,..,..,..,..,..,..,28.9666990490254,28.4743429878171
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,East Asia & Pacific,EAS,..,..,..,..,..,..,31.226943225215,30.5416688285007
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Euro area,EMU,..,..,..,..,..,..,58.6454470002817,58.2264858596898
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,European Union,EUU,..,..,..,..,..,..,58.6966903831528,58.2650710533325
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Latin America & Caribbean,LCN,..,..,..,..,..,..,59.4331244980854,58.8704921864702
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Low income,LIC,..,..,..,..,..,..,27.1794731207286,26.6767901362055
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Middle East & North Africa,MEA,..,..,..,..,..,..,62.8548795355047,62.1904708159183
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,North America,NAC,..,..,..,..,..,..,67.5019253675729,67.0135034274617
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,South Asia,SAS,..,..,..,..,..,..,20.7312973434885,20.1228938314598
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,World,WLD,..,..,..,..,..,..,38.9,38.4
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,High income,HIC,..,..,..,..,..,..,57.1593895397581,56.6694221641371
+Prevalence of overweight (% of adults),SH.STA.OWAD.ZS,Europe & Central Asia,ECS,..,..,..,..,..,..,58.6557628261689,58.1882434621637
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Africa Western and Central,AFW,..,..,..,..,..,..,..,..
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Africa Eastern and Southern,AFE,..,..,..,..,..,..,..,..
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,East Asia & Pacific,EAS,5.10526037216187,5.11503648757935,5.17910957336426,5.29854154586792,5.45726203918457,5.66388177871704,5.9145655632019,6.17226791381836
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Euro area,EMU,..,..,..,..,..,..,..,..
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,European Union,EUU,..,..,..,..,..,..,..,..
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Latin America & Caribbean,LCN,2.79411745071411,2.87983417510986,2.96765661239624,3.05778312683105,3.15165114402771,3.24791526794434,3.3455855846405,3.44580364227295
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Low income,LIC,17.8448657989502,18.2596263885498,18.6818332672119,19.1115207672119,19.5487155914307,19.9934387207031,20.4457092285156,20.9055366516113
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Middle East & North Africa,MEA,4.35128498077393,4.4961109161377,4.6455225944519,4.79965019226074,4.95862531661987,5.12258291244507,5.29166030883789,5.46599626541138
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,North America,NAC,0.651448786258698,0.660780787467957,0.67024552822113,0.679844915866852,0.689580857753754,0.699455201625824,0.709469974040985,0.71962708234787
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,South Asia,SAS,26.0190525054932,26.6839618682861,27.3595790863037,28.0457592010498,28.7423400878906,29.4491386413574,30.1659622192383,30.8925933837891
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,World,WLD,12.3254461288452,12.4930295944214,12.6847734451294,12.9098062515259,13.1716871261597,13.4796371459961,13.8289461135864,14.1998519897461
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,High income,HIC,0.88755589723587,0.905676066875458,0.924162626266479,0.943022966384888,0.962264537811279,0.981894731521606,1.00192141532898,1.02235221862793
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,Europe & Central Asia,ECS,..,..,..,..,..,..,..,..
+Population growth (annual %),SP.POP.GROW,Africa Western and Central,AFW,2.53979944247918,2.57337740168795,2.61564613985792,2.63398206911344,2.66923866802735,2.70626607586351,2.71305851036988,2.72331733741717
+Population growth (annual %),SP.POP.GROW,Africa Eastern and Southern,AFE,2.54375652455458,2.60747169409558,2.67818371641901,2.69113438056398,2.68837142807428,2.65567159923015,2.72815852998758,2.80258582087383
+Population growth (annual %),SP.POP.GROW,East Asia & Pacific,EAS,0.209787710506774,0.264622663583694,0.428125777126169,0.532726654240619,0.612372615067841,0.710215377093945,0.706680949705699,0.714357929736423
+Population growth (annual %),SP.POP.GROW,Euro area,EMU,0.411565214195804,0.0438979577257754,0.134533310515209,0.113304728919502,0.240025320613142,0.216332911315661,0.292998233434247,0.303628560762263
+Population growth (annual %),SP.POP.GROW,European Union,EUU,0.0430249144215651,-0.114856338331379,0.0726749762925749,0.0818993510306854,0.176129820701604,0.157067514488872,0.21264770118772,0.218367448560628
+Population growth (annual %),SP.POP.GROW,Latin America & Caribbean,LCN,0.661078175701164,0.683382768901538,0.81190393111558,0.886073779989815,0.920016070124888,0.976426297150155,1.0103735011334,1.03136126618537
+Population growth (annual %),SP.POP.GROW,Low income,LIC,2.69652052454236,2.72787210660275,2.82051086331371,2.83572595989689,2.75577076086282,2.7210654179362,2.66423730643872,2.54900008366357
+Population growth (annual %),SP.POP.GROW,Middle East & North Africa,MEA,1.46134816956757,1.29344695364449,1.42959607452869,1.74774206115254,1.7921348457981,1.77495388689637,1.90937852574984,2.04832511865654
+Population growth (annual %),SP.POP.GROW,North America,NAC,0.529046606317138,0.20002160762067,0.980198111617312,0.557163665964495,0.61812853613192,0.691849710608722,0.768191348897489,0.73984716254256
+Population growth (annual %),SP.POP.GROW,South Asia,SAS,0.916782670831225,1.02946393006668,1.12446941929608,1.14447328523353,1.18765185903627,1.21635989643084,1.21244270449937,1.22659659590465
+Population growth (annual %),SP.POP.GROW,World,WLD,0.794100918979183,0.87082220635925,1.01308843546317,1.06265681714927,1.10776491698911,1.14848785872732,1.16919282646899,1.18640687354585
+Population growth (annual %),SP.POP.GROW,High income,HIC,0.249443038336338,-0.0362679507636301,0.405023510702989,0.422339739947546,0.486683359413377,0.507590433045152,0.569985664115251,0.560502439889675
+Population growth (annual %),SP.POP.GROW,Europe & Central Asia,ECS,-0.345234212982177,0.131257937135615,0.225571530637069,0.315793517348894,0.361256146189888,0.378309919277456,0.434305590268295,0.445852877094083
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Africa Western and Central,AFW,74.0456398618969,72.9354910903632,71.8450630941457,70.7984871895402,69.7490709976563,68.6819602315201,67.6172260539602,66.5484071078333
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Africa Eastern and Southern,AFE,59.1034631102632,58.3844552328201,57.6433851469426,56.8776971299163,56.0688342053276,55.2338909572547,54.4164559283868,53.6029859054055
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,East Asia & Pacific,EAS,96.5437017258,95.8208282660863,95.158684098044,94.6258710691177,94.0544428068347,93.4624430414994,92.8612447789157,92.2370345868254
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Euro area,EMU,99.863764601745,99.8638623136496,99.8637215008296,99.8634031827017,99.8631482626989,99.8599622165263,99.8563012803777,99.8523998372457
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,European Union,EUU,99.07193777089,99.0508259858946,99.1103800359921,99.1710099867375,99.2331396349344,99.2922884401679,99.352219593523,99.411764495834
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Latin America & Caribbean,LCN,97.603018845158,97.4922316032541,97.0747006448662,96.7972016709066,96.5363748289907,96.2653559425955,96.1057902992966,95.8528161218871
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Low income,LIC,59.0626001187906,58.2420419017489,57.3420415072107,56.4375378966237,55.5339398016488,54.6510019625161,53.7848269969352,52.9626499290844
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Middle East & North Africa,MEA,94.394823395047,94.3490083427119,94.182167307733,93.9492789215317,93.6734510613519,93.2953247861046,92.9896945896223,92.6742951349475
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,North America,NAC,99.8865180178284,99.8254745346702,99.7588757075746,99.6909296341409,99.6224203547029,99.5526442017079,99.4815706694354,99.4093752824788
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,South Asia,SAS,93.0853321029522,92.5874986655503,92.0670930380253,91.5421365898909,91.0142518450295,90.4841428720534,89.951415676476,89.4158989001781
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,World,WLD,91.1541488844275,90.74497498444,90.3309115955765,89.946297360999,89.5461740260017,89.1246793244452,88.7445314945506,88.3238983308193
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,High income,HIC,99.4471109628185,99.416738896774,99.4088233534601,99.3990541677393,99.3900789000779,99.3788134010967,99.3645147002255,99.3503418172692
+People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,Europe & Central Asia,ECS,97.9572302131806,97.8340626892928,97.8243996734572,97.7927290805251,97.7491873750703,97.7034885262911,97.6551244047708,97.6071104833793
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Africa Western and Central,AFW,..,..,..,61.318847677144,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Africa Eastern and Southern,AFE,..,..,..,38.8908474858063,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,East Asia & Pacific,EAS,..,..,..,6.10658953334083,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Euro area,EMU,..,..,..,3.43576271988531,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,European Union,EUU,..,..,..,3.73352009535272,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Latin America & Caribbean,LCN,..,..,..,6.49499981668944,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Low income,LIC,..,..,..,41.3639959935165,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Middle East & North Africa,MEA,..,..,..,4.68178784895606,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,North America,NAC,..,..,..,2.3,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,South Asia,SAS,..,..,..,33.9920281604286,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,World,WLD,..,..,..,18.4170451711543,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,High income,HIC,..,..,..,3.81671118536776,..,..,..,..
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",SH.STA.WASH.P5,Europe & Central Asia,ECS,..,..,..,3.60997805661773,..,..,..,..
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Data from database: Health Nutrition and Population Statistics,,,,,,,,,,,
+Last Updated: 12/20/2023,,,,,,,,,,,
